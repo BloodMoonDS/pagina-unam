@@ -1,0 +1,22 @@
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    background-color: rgb(255, 255, 255);
+}
+marquee {
+    display: block;
+    text-align: -webkit-center;
+    background-image: url(images/texture3.png);
+}
+body {
+    background-image: url(https://bunam.unam.mx/incorporadas/moodle/pluginfile.php/1/theme_fordson/backgroundimage/1690311363/f4.png);
+
+}
+table{
+    background-color: brown;
+
+}
+font {
+    color: black;
+
+}
