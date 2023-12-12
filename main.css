@@ -6,7 +6,7 @@ td {
 marquee {
     display: block;
     text-align: -webkit-center;
-    background-image: url(images/texture3.png);
+    background-color: brown;
 }
 body {
     background-image: url(https://bunam.unam.mx/incorporadas/moodle/pluginfile.php/1/theme_fordson/backgroundimage/1690311363/f4.png);
